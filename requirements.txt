@@ -1,16 +1,2 @@
 groq
-langchain_openai 
-langchain_core
-python-dotenv
 streamlit
-langchain_community
-
-
-chomadb
-faiss-cpu
-groq
-
-
-langchain-groq
-
-langchainhub
